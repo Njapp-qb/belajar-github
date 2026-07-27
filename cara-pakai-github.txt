@@ -1,0 +1,18 @@
+1. bikin token
+
+2. git clone https:....file.git
+-> digunakan untuk clone, atau mendownload project github ke laptop
+
+3. git remote
+-> digunakan untuk mengecek remote
+4. git remote remove nama-remote
+-> digunakan untuk menghapus nama remote
+5. git remote add nama-remote
+-> git remote menambahkan atau mendaftarkan remote baru
+6. git add . atau git add nama-file.php
+-> digunakan untuk menambahkan ke stage area,
+(.) titik digunakan untuk menyimpan semua file perubahan, atau menulis nama file tertentu
+7. git commit -m "pesan commit"
+-> digunakan untuk menyimpan hasil perubahan di lokal
+8. git push origin nama-branch, contoh main, master, dst..
+-> digunakan untuk mengupdate project github dengan kode terbaru 
